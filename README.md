@@ -1,2 +1,2 @@
 # openjdk-debian
-Docker container for OpenJDK on Debian
+Docker container image for OpenJDK on Debian
